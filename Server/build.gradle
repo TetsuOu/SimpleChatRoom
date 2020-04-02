@@ -1,0 +1,9 @@
+apply plugin: 'java-library'
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation files('D:\\jar\\com.google.gson-2.2.4.jar')
+}
+
+sourceCompatibility = "7"
+targetCompatibility = "7"
