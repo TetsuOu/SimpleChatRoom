@@ -377,11 +377,11 @@ private class MyHandler extends Handler {
 
 #### 4.3.1 聊天 
 
-<img src="http://q7oeubsc9.bkt.clouddn.com/截屏_20200401_222644.jpg" alt="截屏_20200401_222644" style="zoom: 20%;" />  <img src="http://q7oeubsc9.bkt.clouddn.com/]WH[KUECZC@]AIOXKU1@91X.png" style="zoom: 67%;" />
+<img src="http://q7oeubsc9.bkt.clouddn.com/截屏_20200401_222644.jpg"  width="20%" />  <img src="http://q7oeubsc9.bkt.clouddn.com/]WH[KUECZC@]AIOXKU1@91X.png" width="18%"  />
 
 服务器端消息：
 
-<img src="http://q7oeubsc9.bkt.clouddn.com/image-20200402100617518.png" alt="image-20200402100617518" style="zoom:90%;" />
+<img src="http://q7oeubsc9.bkt.clouddn.com/image-20200402100617518.png" width="70%" />
 
 #### 4.3.2 传文件
 
@@ -389,18 +389,18 @@ private class MyHandler extends Handler {
 
 android真机选择照片：
 
-<img src="http://q7oeubsc9.bkt.clouddn.com/image-20200402101042418.png" alt="image-20200402101042418" style="zoom:50%;" />
+<img src="http://q7oeubsc9.bkt.clouddn.com/image-20200402101042418.png" width="30%"  />
 
 上传到PC端：
 
-<img src="http://q7oeubsc9.bkt.clouddn.com/image-20200402101117732.png" alt="image-20200402101117732" style="zoom: 67%;" />
+<img src="http://q7oeubsc9.bkt.clouddn.com/image-20200402101117732.png" width="40%" />
 
 聊天界面：（由于虚拟机的根目录不清楚，故未将图片转发给虚拟机）
 
-<img src="http://q7oeubsc9.bkt.clouddn.com/截屏_20200402_100001.jpg" alt="截屏_20200402_100001" style="zoom: 18%;" /> <img src="http://q7oeubsc9.bkt.clouddn.com/截屏_20200402_100151.jpg" alt="截屏_20200402_100151" style="zoom:18%;" /> <img src="http://q7oeubsc9.bkt.clouddn.com/image-20200402101349771.png" alt="image-20200402101349771" style="zoom: 60%;" />
+<img src="http://q7oeubsc9.bkt.clouddn.com/截屏_20200402_100001.jpg" width="18%"/> <img src="http://q7oeubsc9.bkt.clouddn.com/截屏_20200402_100151.jpg" width="18%" /> <img src="http://q7oeubsc9.bkt.clouddn.com/image-20200402101349771.png" width="18%" />
 
 
 
 服务器端消息：
 
-<img src="http://q7oeubsc9.bkt.clouddn.com/image-20200402102214423.png" alt="image-20200402102214423" style="zoom:80%;" />
+<img src="http://q7oeubsc9.bkt.clouddn.com/image-20200402102214423.png" width="80%" />
