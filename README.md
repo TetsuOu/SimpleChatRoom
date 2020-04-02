@@ -196,13 +196,13 @@ sendFileAllExceptSelf函数：
 
 #### 4.2.1 登录页面
 
-<img src="http://q7oeubsc9.bkt.clouddn.com/image-20200331205529283.png" alt="image-20200331205529283" style="zoom: 20%;" />
+<img src="http://q7oeubsc9.bkt.clouddn.com/image-20200331205529283.png" width="20%" />
 
 是由两个EditText分别用于输入IP地址（服务器端）和端口号，还有一个Button，绑定点击事件用于进入聊天室组成的。
 
 #### 4.2.2 聊天室页面
 
-<img src="http://q7oeubsc9.bkt.clouddn.com/image-20200331205853655.png" alt="image-20200331205853655" style="zoom:20%;" />
+<img src="http://q7oeubsc9.bkt.clouddn.com/image-20200331205853655.png" width="20%"  />
 
 是由一个EditText用于输入要发送的信息，两个Button分别用来确定发送消息和打开本地相册选择要上传的图片，以及一个RecyclerView用于展现聊天记录（上图中未显示）组成的。
 
